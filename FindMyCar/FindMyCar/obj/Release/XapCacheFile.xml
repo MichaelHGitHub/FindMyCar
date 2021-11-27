@@ -1,0 +1,12 @@
+﻿<xapCache source="D:\Code\PrivateProjects\FindMyCar\FindMyCar\FindMyCar\Bin\Release\FindMyParkedCar_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2017-06-03 11:37:52 AM">
+  <file source="D:\Code\PrivateProjects\FindMyCar\FindMyCar\FindMyCar\obj\Release\FindMyCar.dll" archivePath="FindMyCar.dll" lastWriteTime="2017-06-03 11:37:50 AM" />
+  <file source="D:\Code\PrivateProjects\FindMyCar\FindMyCar\FindMyCar\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2014-12-20 8:03:00 PM" />
+  <file source="D:\Code\PrivateProjects\FindMyCar\FindMyCar\FindMyCar\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2014-12-21 7:08:22 PM" />
+  <file source="D:\Code\PrivateProjects\FindMyCar\FindMyCar\FindMyCar\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2014-12-21 7:11:04 PM" />
+  <file source="D:\Code\PrivateProjects\FindMyCar\FindMyCar\FindMyCar\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2014-12-21 7:10:14 PM" />
+  <file source="D:\Code\PrivateProjects\FindMyCar\FindMyCar\FindMyCar\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2014-12-21 7:09:30 PM" />
+  <file source="D:\Code\PrivateProjects\FindMyCar\FindMyCar\FindMyCar\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014-12-21 9:04:46 PM" />
+  <file source="D:\Code\PrivateProjects\FindMyCar\FindMyCar\FindMyCar\Bin\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2014-12-21 7:20:38 PM" />
+  <file source="D:\Code\PrivateProjects\FindMyCar\FindMyCar\FindMyCar\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2014-12-21 7:11:38 PM" />
+  <file source="D:\Code\PrivateProjects\FindMyCar\FindMyCar\FindMyCar\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014-12-21 9:04:46 PM" />
+</xapCache>
